@@ -19,7 +19,8 @@ MétéoCréative est une application météo moderne qui offre une expérience u
 
 ## 🛠️ Technologies utilisées
 
-- **React** - Bibliothèque frontend JavaScript
+- **React** - Bibliothèque frontend JavaScript (tsx)
+- **Vite**
 - **Tailwind CSS** - Framework CSS utilitaire
 - **OpenWeatherMap API** - Source des données météorologiques
 - **Lucide React** - Icônes modernes et élégantes
@@ -51,7 +52,7 @@ MétéoCréative est une application météo moderne qui offre une expérience u
 
 4. Démarrez l'application en mode développement
    ```bash
-   npm start
+   npm run dev 
    ```
 
 5. L'application sera accessible à l'adresse [http://localhost:3000](http://localhost:3000)
@@ -126,4 +127,4 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus d'informatio
 
 ---
 
-Développé avec ❤️ par [Votre Nom]
+Développé avec ❤️ par Charaf Eddine Tbibzat
